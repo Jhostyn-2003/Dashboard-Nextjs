@@ -33,7 +33,7 @@ To get started with the project, follow these steps:
 You can view a live demo of the application [here](https://dashboard-nextjs-snowy-two.vercel.app/).
 | Desktop                                      | Mobile                                      |
 |----------------------------------------------|---------------------------------------------|
-| ![Desktop](/public/hero-desktop.png){width=400} | ![Mobile](/public/hero-mobile.png){width=200} |
+| ![Desktop](/public/hero-desktop.png) | ![Mobile](/public/hero-mobile.png) |
 
 
 ## Login Credentials
