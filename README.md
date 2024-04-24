@@ -5,13 +5,13 @@
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application, showcasing best practices for creating a dashboard with login functionality.
 
 ## Technologies Used
-- React <FontAwesomeIcon icon={["fab", "react"]} /> 
-- TypeScript <FontAwesomeIcon icon={["fab", "typescript"]} />
-- CSS <FontAwesomeIcon icon={["fab", "css3-alt"]} />
-- JavaScript <FontAwesomeIcon icon={["fab", "js-square"]} />
-- Tailwind CSS <FontAwesomeIcon icon={["fab", "tailwindcss"]} />
+- React ⚛️
+- TypeScript 🟦
+- CSS 🎨
+- JavaScript 🚀
+- Tailwind CSS 🌈
 - Auth.js 🔐
-- Next.js <FontAwesomeIcon icon={["fab", "react"]} />
+- Next.js 🚦
 - Vercel 🚀
 
 
@@ -31,7 +31,8 @@ To get started with the project, follow these steps:
 
 ## Demo
 You can view a live demo of the application [here](https://dashboard-nextjs-snowy-two.vercel.app/).
-![Desktop](/public/hero-desktop.png) + ![Mobile](/public/hero-mobile.png) 
+<br/>
+<img src="/public/hero-desktop.png" alt="Desktop" width="400"/> <img src="/public/hero-mobile.png" alt="Mobile" width="200"/>
 
 ## Login Credentials
 To login to the application, use the following credentials:
