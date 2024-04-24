@@ -52,8 +52,8 @@ Feel free to contribute to the project and improve it further! If you have any q
 <div style="text-align: center;">
   <img src="/public/React.gif" alt="React" width="150"/> 
   <img src="/public/Perfil1.gif" alt="Perfil1" width="150"/> 
+  <img src="/public/nextjs-gif.gif" alt="nextjs-gif" width="150"/>
   <img src="/public/Deploy.gif" alt="Deploy" width="150"/>
-  
 </div>
 
 
