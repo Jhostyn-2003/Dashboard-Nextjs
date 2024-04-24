@@ -50,4 +50,11 @@ Feel free to contribute to the project and improve it further! If you have any q
 
 ---
 
-![Deploy](/public/Deploy.gif) + ![Perfil1](/public/Perfil1.gif) + ![React](/public/React.gif)
+<div align="center">
+  <img src="/public/Deploy.gif" alt="Deploy" width="300"/>
+  <span style="font-size: 2em; margin: 0 10px;">+</span>
+  <img src="/public/Perfil1.gif" alt="Perfil1" width="300"/>
+  <span style="font-size: 2em; margin: 0 10px;">+</span>
+  <img src="/public/React.gif" alt="React" width="300"/>
+</div>
+
