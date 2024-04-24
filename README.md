@@ -31,8 +31,10 @@ To get started with the project, follow these steps:
 
 ## Demo
 You can view a live demo of the application [here](https://dashboard-nextjs-snowy-two.vercel.app/).
-<br/>
-<img src="/public/hero-desktop.png" alt="Desktop" width="400"/> <img src="/public/hero-mobile.png" alt="Mobile" width="200"/>
+| Desktop                                      | Mobile                                      |
+|----------------------------------------------|---------------------------------------------|
+| ![Desktop](/public/hero-desktop.png){width=400} | ![Mobile](/public/hero-mobile.png){width=200} |
+
 
 ## Login Credentials
 To login to the application, use the following credentials:
@@ -52,7 +54,7 @@ Feel free to contribute to the project and improve it further! If you have any q
 <div style="text-align: center;">
   <img src="/public/React.gif" alt="React" width="150"/> 
   <img src="/public/Perfil1.gif" alt="Perfil1" width="150"/> 
-  <img src="/public/nextjs-gif.gif" alt="nextjs-gif" width="150"/>
+  <img src="/public/nextjs-gif.gif" alt="nextjs-gif" width="200"/>
   <img src="/public/Deploy.gif" alt="Deploy" width="150"/>
 </div>
 
