@@ -51,10 +51,10 @@ Feel free to contribute to the project and improve it further! If you have any q
 ---
 
 <div align="center">
-  <img src="/public/Deploy.gif" alt="Deploy" width="300"/>
+  <img src="/public/Deploy.gif" alt="Deploy" width="150"/>
   <span style="font-size: 2em; margin: 0 10px;">+</span>
-  <img src="/public/Perfil1.gif" alt="Perfil1" width="300"/>
+  <img src="/public/Perfil1.gif" alt="Perfil1" width="150"/>
   <span style="font-size: 2em; margin: 0 10px;">+</span>
-  <img src="/public/React.gif" alt="React" width="300"/>
+  <img src="/public/React.gif" alt="React" width="150"/>
 </div>
 
